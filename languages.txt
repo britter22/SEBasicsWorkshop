@@ -1,4 +1,4 @@
-Partner name: 
+Partner name: Matt Lorenzo mlorenzo7
 
 My favorite programming language is Python because I am most comfortable
 with it and I find it the easiest to work with.
