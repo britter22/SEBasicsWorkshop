@@ -1,0 +1,7 @@
+Partner name: 
+
+My favorite programming language is Python because I am most comfortable
+with it and I find it the easiest to work with.
+
+No, Python is not the language that I am most experienced with. I am most
+experienced with Java because I have taken the most classes with it.
